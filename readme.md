@@ -18,3 +18,4 @@ Die Zusammenarbeit mit Repository 1 wurde simuliert. Änderungen wurden abwechse
 ## Python-Datei
 
 Die Datei `calc_repo2.py` verwendet Funktionen aus dem ersten Repository (theoretisch) und ergänzt sie durch zusätzliche Operationen.
+- Repo2 Kommentar: Klingt gut! Ich bereite ein Testskript vor.
